@@ -1,42 +1,10 @@
 <<<<<<< HEAD
-# 🌟 Fullstack Scheduling Calendar SaaS Platform - _Calendly-cln_
-
-## 🎥 Watch the Full Video on YouTube
-
-**[Subscribe to the Channel](https://tinyurl.com/subcribe-to-techwithEmma)** to stay updated with more exciting projects and tutorials!
-
----
-
-## ❤️ Support the Channel
-
-If you love this project and want to see more, consider supporting the channel:
-
-- Give this repository a ⭐️ on GitHub.
-- **[Buy Me a Coffee](https://www.buymeacoffee.com/techwithemmaofficial)** to help fund more educational content.
-- Like, share, and subscribe to the channel for more tutorials and updates!
-
 ---
 
 ## 📌 Project Overview
 
 🌟 Introducing Calendly-cln — The Smartest Way to Book & Manage Meetings 🗓️ (A Calendly Clone!)
 A Fullstack Application Built with: Node.js, TypeORM, PostgreSQL, and React.js (Beginner to Pro)
-
----
-
-## 🌟 Key Features
-
-- 🔑 Easy Sign-Up & Login (Using JWT Authentication)
-- 📅 Create Events (Public or Private)
-- 🔗 Share Your Unique Booking Link (Clients Book Instantly!)
-- ⏳ Set Your Availability & Time Slots (No Double-Booking!)
-- 🌍 Auto-Detect Time Zones
-- 📆 Custom-Built Calendar – No Plugins!
-- 🔄 Integration & Apps (Sync Your Google Meet & Calendar Scratch)
-- ✅ Track Upcoming, Past & Canceled Meetings
-- 🕰️ Switch Between 12h & 24h Formats
-- 💻 Built with: Node.js, TypeORM, PostgreSQL, React.js
-- 🎨 Tailwind CSS v4 & Shadcn-ui
 
 ---
 
@@ -56,11 +24,7 @@ This project leverages the latest tools and frameworks for modern development:
 
 ## 🔄 Getting Started
 
-### 1. Watch the Video
-
-Follow along step-by-step by watching the full video on YouTube.
-
-### 2. Set Up Environment Variables
+###  Set Up Environment Variables
 
 Create a `.env` file in the root of your project and configure these variables:
 
@@ -81,7 +45,7 @@ FRONTEND_ORIGIN=http://localhost:5173
 FRONTEND_INTEGRATION_URL="http://localhost:5173/app/integrations"
 ```
 
-### 3. Run the Application
+###  Run the Application
 
 Install dependencies and start the development server:
 
@@ -94,19 +58,4 @@ Access the backend at `http://localhost:8000`.
 
 ---
 
-## 🌐 Deploying Calendly-cln
 
-### 1. Add Environment Variables
-
-Add the `.env` variables to your hosting platform (e.g., Render).
-
-### 2. Deploy
-
-Deploy your app using your preferred method to make it live.
-
-### 📺 Like, Share & Subscribe
-
-Don’t miss out! **[Subscribe to the Channel](https://tinyurl.com/subcribe-to-techwithEmma)** for more amazing content and exciting projects.
-=======
-# Calendly-cln
->>>>>>> 4f80d37a34c383d1f2f3c570fbd55a4b7f08fdff
