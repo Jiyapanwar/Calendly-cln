@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌟 Fullstack Scheduling Calendar SaaS Platform - _Calendly-cln_
 
 ## 🎥 Watch the Full Video on YouTube
@@ -106,3 +107,6 @@ Deploy your app using your preferred method to make it live.
 ### 📺 Like, Share & Subscribe
 
 Don’t miss out! **[Subscribe to the Channel](https://tinyurl.com/subcribe-to-techwithEmma)** for more amazing content and exciting projects.
+=======
+# Calendly-cln
+>>>>>>> 4f80d37a34c383d1f2f3c570fbd55a4b7f08fdff
